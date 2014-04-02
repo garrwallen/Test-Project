@@ -9,21 +9,17 @@ namespace TestProject1
     /// <summary>
     /// This is my simple calculator (Edited from GitHub).
     /// </summary>
-    public class SimpleCalculator
+    public static class SimpleCalculator
     {
-        public int Add(int x, int y)
+        public static int Add(int x, int y)
         {
             return x + y;
         }
 
-
         /// <summary>
         /// Subtracts the specified x.
         /// </summary>
-        /// <param name="x">The x.</param>
-        /// <param name="y">The y.</param>
-        /// <returns>System.Int32.</returns>
-        public int Subtract(int x, int y)
+        public static int Subtract(int x, int y)
         {
             return x - y;
         }
