@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestProject1
 {
     /// <summary>
-    /// This is my simple calculator.
+    /// This is my simple calculator (Edited from GitHub).
     /// </summary>
     public class SimpleCalculator
     {
