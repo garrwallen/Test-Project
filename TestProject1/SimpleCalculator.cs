@@ -16,6 +16,13 @@ namespace TestProject1
             return x + y;
         }
 
+
+        /// <summary>
+        /// Subtracts the specified x.
+        /// </summary>
+        /// <param name="x">The x.</param>
+        /// <param name="y">The y.</param>
+        /// <returns>System.Int32.</returns>
         public int Subtract(int x, int y)
         {
             return x - y;
