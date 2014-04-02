@@ -9,7 +9,11 @@ namespace TestProject1
     /// <summary>
     /// Test2
     /// </summary>
-    public class Class1
+    public class SimpleCalculator
     {
+        public int Add(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
