@@ -17,7 +17,7 @@ namespace TestProject1
         }
 
         /// <summary>
-        /// Subtracts the specified x.
+        /// Subtracts y from x.
         /// </summary>
         public static int Subtract(int x, int y)
         {
