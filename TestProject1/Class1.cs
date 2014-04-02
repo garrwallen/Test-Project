@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestProject1
 {
     /// <summary>
-    /// Test
+    /// Test2
     /// </summary>
     public class Class1
     {
