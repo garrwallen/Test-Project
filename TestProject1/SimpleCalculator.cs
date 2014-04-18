@@ -26,6 +26,7 @@ namespace TestProject1
 
         public static double Multiply(int x, int y)
         {
+            // This edit has been made on GitHub.
             return x * y;
         }
     }
